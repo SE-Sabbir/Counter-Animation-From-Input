@@ -1,7 +1,7 @@
 🚀 Counter Animation From Input
 This is a simple and interactive number counter application where users can input a value, click Run, and see the number count up with animation until it reaches the entered number.
 
-🔗 Live Demo: Click to View
+🔗 Live Demo: [Click to View](https://se-sabbir.github.io/Counter-Animation-From-Input/ )
 
 ✨ Features
 💡 User-friendly number input interface
